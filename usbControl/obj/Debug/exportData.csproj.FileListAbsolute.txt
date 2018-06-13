@@ -1,0 +1,10 @@
+E:\work\20180607\usbControl\usbControl\bin\Debug\usbControl.exe.config
+E:\work\20180607\usbControl\usbControl\bin\Debug\usbControl.exe
+E:\work\20180607\usbControl\usbControl\bin\Debug\usbControl.pdb
+E:\work\20180607\usbControl\usbControl\obj\Debug\usbControl.Properties.Resources.resources
+E:\work\20180607\usbControl\usbControl\obj\Debug\exportData.csproj.GenerateResource.Cache
+E:\work\20180607\usbControl\usbControl\obj\Debug\exportData.csproj.CoreCompileInputs.cache
+E:\work\20180607\usbControl\usbControl\obj\Debug\usbControl.exe
+E:\work\20180607\usbControl\usbControl\obj\Debug\usbControl.pdb
+E:\work\20180607\usbControl\usbControl\obj\Debug\export.exportData.resources
+E:\work\20180607\usbControl\usbControl\obj\Debug\exportData.csprojResolveAssemblyReference.cache
